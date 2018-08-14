@@ -1,4 +1,4 @@
-# svg转geojson(gulp插件)
+# svg转geojson(gulp插件)**已遗弃**
 ***
 
 [TOC]
