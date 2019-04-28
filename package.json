@@ -10,9 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-coord": "^1.0.0",
+    "gulp-coord": "^1.0.1",
     "gulp-rename": "^1.2.2",
-    "gulp-svg2json": "^1.1.0",
+    "gulp-svg2json": "^1.1.1",
     "through2": "^2.0.1"
   }
 }

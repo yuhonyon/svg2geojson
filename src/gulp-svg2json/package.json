@@ -1,0 +1,14 @@
+{
+  "name": "gulp-svg2json",
+  "version": "1.1.1",
+  "description": "yfy svg2json gulp",
+  "main": "gulp-svg2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yufangyang",
+  "license": "ISC",
+  "__npminstall_done": "Sun Apr 28 2019 21:44:38 GMT+0800 (GMT+08:00)",
+  "_from": "gulp-svg2json@1.1.0",
+  "_resolved": "https://registry.npm.taobao.org/gulp-svg2json/download/gulp-svg2json-1.1.0.tgz"
+}
